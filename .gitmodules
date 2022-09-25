@@ -1,0 +1,9 @@
+[submodule "example/hello_triangle/assets/glfw"]
+	path = example/hello_triangle/assets/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "assets/glfw"]
+	path = assets/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "assets/glm"]
+	path = assets/glm
+	url = https://github.com/g-truc/glm.git
